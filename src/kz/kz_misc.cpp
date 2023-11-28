@@ -1,5 +1,3 @@
-#include "protobuf/generated/usermessages.pb.h"
-
 #include "common.h"
 #include "utils/utils.h"
 #include "kz.h"
